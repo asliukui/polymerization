@@ -61,3 +61,5 @@ zero to  one
 
      自动解绑没有找到的合适的入口 RxlifeCycle 2
 
+     1
+
